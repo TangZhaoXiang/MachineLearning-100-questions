@@ -1,8 +1,10 @@
 # 机器学习面试题汇总
 
-TangZhaoXiang，总结于2019.10.8，150+页
+**内容基本上来源于网络，由TangZhaoXiang整理汇集排版，总结于2019.10.8，目前150多页，可用于打印后学习**
 
-![img](file:///http://imagecn.gasgoo.com/moblogo/News/UEditor/image/20170804/6363745574453364348223382.jpg)
+
+
+![img](http://imagecn.gasgoo.com/moblogo/News/UEditor/image/20170804/6363745574453364348223382.jpg)
 
 
 
